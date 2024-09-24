@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Planificador de Viajes</string>
+    <string name="titulo_lista_viajes">Mis Viajes</string>
+    <string name="placeholder_busqueda">Buscar por destino…</string>
+    <string name="etiqueta_numero_viaje">Viaje #%d</string>
+    <string name="etiqueta_destino">Destino: %s</string>
+    <string name="etiqueta_fecha_inicio">Fecha de inicio: %s</string>
+    <string name="etiqueta_fecha_fin">Fecha de fin: %s</string>
+    <string name="etiqueta_presupuesto">Presupuesto: %s</string>
+    <string name="boton_detalles">Detalles</string>
+    <string name="titulo_detalles_viaje">Detalles del Viaje #%d</string>
+    <string name="etiqueta_actividades">Actividades</string>
+    <string name="etiqueta_lugares">Lugares a visitar</string>
+    <string name="titulo_nuevo_viaje">Nuevo Viaje</string>
+    <string name="titulo_editar_viaje">Editar Viaje #%d</string>
+    <string name="boton_agregar">Agregar</string>
+    <string name="boton_modificar">Modificar</string>
+</resources>
